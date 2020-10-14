@@ -1,0 +1,61 @@
+patient,drugs,targets,types,sizes,grade,age,dfs,dfs.status,,,time,status,ER,PR,HER2,subtypes,dat.types
+GSM22365,tamoxifen,ESR1/ESR2,BRCA,3.5,2,62,75,0,75,0,75,1,Neg,Pos,Neg,D,survival
+GSM22366,tamoxifen,ESR1/ESR2,BRCA,3,2,70,21,0,21,0,21,1,Pos,Pos,ID (+2),L,survival
+GSM22367,tamoxifen,ESR1/ESR2,BRCA,3,2,53,38,0,38,0,38,1,Pos,Pos,Neg,D,survival
+GSM22368,tamoxifen,ESR1/ESR2,BRCA,,2,63,43,0,43,0,43,1,Pos,Pos,Neg,L,survival
+GSM22369,tamoxifen,ESR1/ESR2,BRCA,1.6,2,69,169,1,169,1,169,0,Pos,Pos,Neg ,D,survival
+GSM22370,tamoxifen,ESR1/ESR2,BRCA,0.9,2,73,42,0,42,0,42,1,Pos,Pos,Neg,D/L,survival
+GSM22371,tamoxifen,ESR1/ESR2,BRCA,2.2,3,66,44,0,44,0,44,1,Pos,Pos,Neg,D,survival
+GSM22372,tamoxifen,ESR1/ESR2,BRCA,3,2,75,63,0,63,0,63,1,Pos,Pos,Neg,D,survival
+GSM22373,tamoxifen,ESR1/ESR2,BRCA,3.5,2,52,118,0,118,0,118,1,Pos,Pos,Neg,D,survival
+GSM22374,tamoxifen,ESR1/ESR2,BRCA,0.8,2,66,169,1,169,1,169,0,Pos,Pos,ND,D,survival
+GSM22375,tamoxifen,ESR1/ESR2,BRCA,1.2,3,71,5,0,5,0,5,1,Pos,Neg,Neg,D,survival
+GSM22376,tamoxifen,ESR1/ESR2,BRCA,4,2,67,44,0,44,0,44,1,Pos,Pos,Neg,D,survival
+GSM22377,tamoxifen,ESR1/ESR2,BRCA,3,2,62,102,0,102,0,102,1,Pos,Neg,Neg,D,survival
+GSM22378,tamoxifen,ESR1/ESR2,BRCA,1,2,58,24,0,24,0,24,1,Pos (<10%),Neg,Pos,D,survival
+GSM22379,tamoxifen,ESR1/ESR2,BRCA,1,3,57,47,0,47,0,47,1,Pos (<10%),Pos,Pos,D,survival
+GSM22380,tamoxifen,ESR1/ESR2,BRCA,2,3,72,58,0,58,0,58,1,Pos,Pos,Neg,D/L,survival
+GSM22381,tamoxifen,ESR1/ESR2,BRCA,1,1,66,161,1,161,1,161,0,Pos,Pos,Neg ,D,survival
+GSM22382,tamoxifen,ESR1/ESR2,BRCA,5.5,2,68,156,1,156,1,156,0,Pos,Pos,Neg,L,survival
+GSM22383,tamoxifen,ESR1/ESR2,BRCA,1.5,2,74,129,0,129,0,129,1,Pos,Pos,Neg,D/L,survival
+GSM22384,tamoxifen,ESR1/ESR2,BRCA,2.2,2,70,110,1,110,1,110,0,Pos,Pos,Neg,D,survival
+GSM22385,tamoxifen,ESR1/ESR2,BRCA,1.2,2,76,114,1,114,1,114,0,Pos,Pos,Neg,D,survival
+GSM22386,tamoxifen,ESR1/ESR2,BRCA,2.7,3,61,20,0,20,0,20,1,Pos,Pos,Neg,D,survival
+GSM22387,tamoxifen,ESR1/ESR2,BRCA,2,2,67,148,1,148,1,148,0,Pos,Pos,Neg,D,survival
+GSM22388,tamoxifen,ESR1/ESR2,BRCA,1.1,2,62,160,1,160,1,160,0,Pos,Pos,Neg,D,survival
+GSM22389,tamoxifen,ESR1/ESR2,BRCA,4.7,3,48,137,0,137,0,137,1,Pos,Pos,Neg,D,survival
+GSM22390,tamoxifen,ESR1/ESR2,BRCA,2,3,73,143,1,143,1,143,0,Pos,Pos,ND,D,survival
+GSM22391,tamoxifen,ESR1/ESR2,BRCA,1,3,79,27,0,27,0,27,1,Pos,Pos,Neg,D,survival
+GSM22392,tamoxifen,ESR1/ESR2,BRCA,3.5,3,73,142,1,142,1,142,0,Pos,Pos,Neg,D,survival
+GSM22393,tamoxifen,ESR1/ESR2,BRCA,1.8,2,61,137,1,137,1,137,0,Pos,Neg,Neg,D,survival
+GSM22394,tamoxifen,ESR1/ESR2,BRCA,1.8,2,63,118,1,118,1,118,0,Pos,Pos,ND,D,survival
+GSM22395,tamoxifen,ESR1/ESR2,BRCA,2.5,2,68,69,0,69,0,69,1,Pos,Pos,Neg,D,survival
+GSM22396,tamoxifen,ESR1/ESR2,BRCA,2,2,51,69,0,69,0,69,1,Pos,Pos,Neg,D,survival
+GSM22397,tamoxifen,ESR1/ESR2,BRCA,1.2,2,69,136,1,136,1,136,0,Pos,Pos,Neg ,D,survival
+GSM22398,tamoxifen,ESR1/ESR2,BRCA,3.4,2,76,122,0,122,0,122,1,Pos,Neg,Neg,D,survival
+GSM22399,tamoxifen,ESR1/ESR2,BRCA,2,1,75,23,0,23,0,23,1,Pos,Pos,Neg,D,survival
+GSM22400,tamoxifen,ESR1/ESR2,BRCA,1.6,2,73,88,1,88,1,88,0,Pos,Pos,ND,D,survival
+GSM22401,tamoxifen,ESR1/ESR2,BRCA,3,3,65,130,1,130,1,130,0,Pos,Pos,Neg,D,survival
+GSM22402,tamoxifen,ESR1/ESR2,BRCA,4,3,61,6,0,6,0,6,1,Pos,Pos,Neg,D,survival
+GSM22403,tamoxifen,ESR1/ESR2,BRCA,1.6,2,76,138,1,138,1,138,0,Pos,Neg,Neg,D/L,survival
+GSM22404,tamoxifen,ESR1/ESR2,BRCA,1.5,2,85,83,1,83,1,83,0,Pos,Pos,Neg ,D/L,survival
+GSM22405,tamoxifen,ESR1/ESR2,BRCA,2.5,3,73,121,1,121,1,121,0,Pos,Neg,Pos,D,survival
+GSM22406,tamoxifen,ESR1/ESR2,BRCA,2.6,2,70,128,1,128,1,128,0,Pos,Neg,Neg,D/L,survival
+GSM22407,tamoxifen,ESR1/ESR2,BRCA,4.7,2,48,101,0,101,0,101,1,Pos,Pos,Neg,D,survival
+GSM22408,tamoxifen,ESR1/ESR2,BRCA,1,3,66,85,1,85,1,85,0,Pos,Pos,Neg ,D,survival
+GSM22409,tamoxifen,ESR1/ESR2,BRCA,2.6,2,54,123,1,123,1,123,0,Pos,Neg,Neg,D,survival
+GSM22410,tamoxifen,ESR1/ESR2,BRCA,2.7,2,71,88,1,88,1,88,0,Pos,Pos,Neg ,D,survival
+GSM22411,tamoxifen,ESR1/ESR2,BRCA,4.1,3,84,56,0,56,0,56,1,Pos,Neg,Neg,D,survival
+GSM22412,tamoxifen,ESR1/ESR2,BRCA,4.5,1,62,10,0,10,0,10,1,Pos,Pos,Neg,D,survival
+GSM22413,tamoxifen,ESR1/ESR2,BRCA,3.5,2,58,79,1,79,1,79,0,Pos,Pos,Neg,D,survival
+GSM22414,tamoxifen,ESR1/ESR2,BRCA,2,2,68,102,1,102,1,102,0,Pos,Pos,Neg,D,survival
+GSM22415,tamoxifen,ESR1/ESR2,BRCA,2,3,57,20,0,20,0,20,1,Pos,Pos,Neg,D,survival
+GSM22416,tamoxifen,ESR1/ESR2,BRCA,2.5,3,79,21,0,21,0,21,1,Pos,Pos,Neg,D,survival
+GSM22417,tamoxifen,ESR1/ESR2,BRCA,2.1,2,56,114,1,114,1,114,0,Pos,Pos,Neg ,D,survival
+GSM22418,tamoxifen,ESR1/ESR2,BRCA,2.6,2,82,63,1,63,1,63,0,Pos,Pos,Neg ,D,survival
+GSM22419,tamoxifen,ESR1/ESR2,BRCA,2,2,73,61,1,61,1,61,0,Pos,Pos,Neg,D,survival
+GSM22420,tamoxifen,ESR1/ESR2,BRCA,1.7,2,80,94,1,94,1,94,0,Pos,Pos,Neg,D,survival
+GSM22421,tamoxifen,ESR1/ESR2,BRCA,1,3,81,95,1,95,1,95,0,Pos (<10%),Pos,Neg,D,survival
+GSM22422,tamoxifen,ESR1/ESR2,BRCA,2.5,2,59,86,1,86,1,86,0,Pos,Pos,Neg,D,survival
+GSM22423,tamoxifen,ESR1/ESR2,BRCA,1.7,2,67,89,1,89,1,89,0,Pos,Pos,Neg,D,survival
+GSM22424,tamoxifen,ESR1/ESR2,BRCA,3.7,3,70,70,1,70,1,70,0,Pos,Pos,Neg ,D,survival

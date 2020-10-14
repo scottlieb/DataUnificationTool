@@ -1,0 +1,738 @@
+2020-10-14 14:07:39,921 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:07:39,922 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:07:39,932 **********DONE**********
+2020-10-14 14:07:49,713 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:07:49,713 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:08:52,096 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:08:52,096 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:09:15,766 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:09:15,766 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:09:26,650 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:09:26,650 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:11:17,775 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:11:17,775 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:11:17,775 No mrna file found for GSE1210. Continuing...
+2020-10-14 14:12:17,899 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:12:17,899 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:12:17,900 No mrna file found for GSE1210. Continuing...
+2020-10-14 14:12:25,470 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:12:25,470 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:12:25,470 No mrna file found for GSE1210. Continuing...
+2020-10-14 14:12:25,641 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:28,360 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:29,614 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:32,176 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:33,428 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:36,422 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:37,726 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:40,159 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:41,477 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:44,023 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:45,286 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:47,671 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:48,923 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:51,345 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:52,579 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:54,957 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:56,217 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:12:58,722 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:12:59,977 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:02,960 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:04,192 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:06,951 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:08,197 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:10,558 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:11,789 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:14,120 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:15,346 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:22,927 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:24,170 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:26,288 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:27,524 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:29,452 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:30,681 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:33,854 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:34,867 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:37,408 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:38,638 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:41,738 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:42,983 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:45,295 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:46,541 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:48,702 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:49,929 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:52,371 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:13:53,599 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:13:54,661 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:24,238 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:14:24,239 No md_config file found for GSE1210. Continuing...
+2020-10-14 14:14:24,239 No mrna file found for GSE1210. Continuing...
+2020-10-14 14:14:24,411 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:26,883 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:28,122 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:30,576 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:31,809 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:34,397 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:35,645 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:37,947 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:39,178 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:41,705 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:42,945 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:45,946 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:47,190 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:49,634 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:51,006 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:53,280 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:54,530 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:14:56,909 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:14:58,143 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:00,589 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:01,908 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:04,554 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:05,788 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:08,371 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:09,713 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:12,186 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:13,429 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:15,791 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:17,039 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:19,794 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:21,051 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:23,095 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:24,334 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:26,531 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:27,759 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:30,466 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:31,709 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:34,640 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:35,892 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:38,166 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:39,410 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:42,069 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:43,571 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:45,867 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:47,096 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:15:48,173 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:15:50,015 **********DONE**********
+2020-10-14 14:20:52,459 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:20:52,558 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:20:55,312 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:20:56,643 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:20:58,781 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:00,009 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:02,073 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:03,092 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:05,656 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:06,899 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:09,282 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:10,516 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:12,946 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:14,225 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:16,610 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:17,931 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:20,307 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:21,558 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:24,514 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:25,770 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:28,322 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:29,563 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:32,099 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:33,382 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:35,456 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:36,702 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:39,134 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:40,401 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:42,929 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:44,158 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:46,807 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:48,159 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:50,688 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:51,944 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:54,647 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:55,874 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:21:58,352 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:21:59,613 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:01,843 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:03,081 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:03,821 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:05,644 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:08,150 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:09,423 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:12,034 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:13,289 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:15,894 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:17,149 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:19,900 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:21,146 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:23,739 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:24,985 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:27,475 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:28,772 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:31,169 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:32,565 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:34,970 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:36,229 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:38,907 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:40,147 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:42,610 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:43,873 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:46,811 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:48,063 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:50,641 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:51,917 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:54,510 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:55,786 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:22:58,090 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:22:59,330 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:01,963 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:03,212 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:05,680 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:06,919 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:09,462 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:10,706 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:13,352 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:14,605 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:17,047 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:18,277 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:20,606 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:21,837 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:24,305 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:25,543 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:27,888 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:29,243 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:30,332 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:32,305 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:34,807 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:36,046 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:38,746 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:39,991 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:42,336 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:43,601 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:46,015 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:47,256 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:49,499 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:50,761 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:53,379 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:23:55,007 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:23:55,185 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:55,337 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:55,412 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:23:55,522 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:00,745 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:00,853 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:01,406 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:01,482 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:01,998 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:02,087 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:02,634 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:02,787 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:07,113 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:07,522 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:07,532 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:07,726 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:08,130 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:08,540 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:08,766 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:08,974 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:10,521 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:11,532 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:13,027 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:13,340 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:13,749 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:14,038 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:14,566 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:14,767 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:14,974 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:15,999 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:18,817 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:19,168 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:24:19,368 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:19,500 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:19,546 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:19,611 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:24,830 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:25,237 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:25,442 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:25,623 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:26,060 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:26,480 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:26,710 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:26,910 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:31,751 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:31,786 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:32,157 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:32,169 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:33,167 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:33,173 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:33,179 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:33,618 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:36,218 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:37,232 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:38,123 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:38,174 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:38,550 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:39,192 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:39,361 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:39,837 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:40,170 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:41,425 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:43,910 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:44,646 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:44,912 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:45,196 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:45,512 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:45,910 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:48,401 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:24:48,571 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:48,703 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:48,770 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:48,951 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:54,096 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:54,869 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:55,089 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:55,117 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:24:55,345 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:56,097 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:56,333 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:24:56,464 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:00,145 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:00,940 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:01,028 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:01,375 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:01,580 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:02,180 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:02,249 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:02,817 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:04,251 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:05,525 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:11,842 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:12,339 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:12,447 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:12,458 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:13,090 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:13,354 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:13,474 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:13,699 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:18,769 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:18,897 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:19,084 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:19,331 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:20,099 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:20,136 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:20,336 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:20,729 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:25,567 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:25,626 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:25,926 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:26,066 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:26,803 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:26,872 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:27,389 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:27,393 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:32,140 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:32,313 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:32,782 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:32,818 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:33,399 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:33,557 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:34,099 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:34,121 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:38,660 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:38,876 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:39,848 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:39,866 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:39,888 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:40,129 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:41,090 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:41,123 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:43,624 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:44,872 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:45,930 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:46,841 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:47,072 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:47,254 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:48,035 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:48,071 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:48,321 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:49,267 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:51,217 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:52,483 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:53,198 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:53,880 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:54,496 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:54,705 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:55,110 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:55,658 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:55,947 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:56,895 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:25:58,321 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:25:59,638 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:00,593 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:01,769 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:01,890 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:01,895 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:03,010 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:03,032 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:03,137 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:04,273 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:04,887 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:06,123 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:07,168 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:07,908 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:08,543 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:08,763 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:09,163 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:10,084 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:10,166 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:11,407 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:13,501 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:13,712 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:14,761 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:14,961 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:15,150 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:16,176 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:16,221 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:17,430 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:18,741 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:19,723 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:19,994 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:20,966 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:21,876 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:21,970 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:23,135 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:23,231 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:24,010 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:24,740 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:25,342 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:25,997 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:28,120 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:28,323 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:29,411 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:29,651 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:30,032 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:30,047 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:31,279 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:31,283 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:34,259 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:34,995 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:35,502 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:36,001 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:36,147 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:36,241 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:37,404 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:37,411 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:39,579 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:40,813 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:41,777 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:42,764 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:42,792 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:43,014 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:43,931 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:44,014 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:44,044 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:45,208 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:47,583 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:48,811 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:49,206 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:49,319 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:49,563 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:50,560 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:50,566 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:50,841 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:51,206 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:51,366 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:52,696 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:53,246 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:54,336 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:54,749 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:55,685 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:56,018 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:26:59,150 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:26:59,903 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:27:00,406 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:27:01,149 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:27:02,649 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:27:04,853 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:27:06,090 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:27:07,097 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:27:09,598 **********DONE**********
+2020-10-14 14:32:31,277 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:32:31,468 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:31,603 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:31,649 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:31,735 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:37,280 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:38,511 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:38,918 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:39,122 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:39,251 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:40,237 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:40,430 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:40,487 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:42,060 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:43,409 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:46,291 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:46,495 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:46,707 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:47,544 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:47,725 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:47,928 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:47,940 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:49,188 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:52,499 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:53,459 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:53,768 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:53,857 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:54,351 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:32:54,469 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:54,881 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:55,583 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:32:59,276 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:00,592 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:00,784 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:00,934 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:01,918 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:02,024 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:02,164 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:03,148 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:03,568 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:04,803 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:07,363 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:07,617 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:08,613 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:08,719 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:08,859 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:09,152 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:09,969 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:10,393 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:12,917 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:14,145 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:14,873 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:15,317 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:15,407 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:16,113 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:16,562 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:16,673 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:17,101 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:18,352 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:21,288 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:22,504 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:22,513 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:22,606 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:22,874 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:23,746 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:23,848 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:24,104 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:26,126 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:27,363 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:29,275 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:29,525 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:29,587 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:30,609 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:30,762 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:30,816 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:31,071 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:32,326 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:35,469 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:36,365 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:36,573 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:36,714 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:37,286 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:37,619 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:37,863 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:38,526 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:39,850 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:41,080 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:42,345 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:43,098 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:43,581 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:44,105 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:44,420 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:44,599 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:45,364 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:45,828 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:46,538 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:47,799 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:49,475 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:50,708 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:51,073 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:51,155 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:51,726 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:52,300 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:52,398 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:52,971 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:54,196 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:55,444 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:58,077 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:58,250 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:58,475 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:33:59,306 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:59,494 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:59,778 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:33:59,805 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:01,068 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:05,747 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:06,268 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:06,280 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:06,758 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:06,974 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:07,513 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:07,520 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:08,005 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:12,261 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:12,992 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:13,412 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:13,497 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:13,742 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:14,222 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:14,648 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:14,998 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:18,805 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:19,582 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:19,632 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:20,059 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:20,182 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:20,898 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:21,526 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:21,565 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:24,227 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:25,468 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:25,821 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:26,946 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:27,157 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:27,242 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:28,170 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:28,492 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:28,755 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:30,009 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:31,469 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:32,721 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:33,373 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:33,403 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:34,165 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:34,717 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:34,722 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:35,285 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:35,339 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:35,399 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:36,529 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:37,136 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:37,679 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:38,938 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:39,163 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:40,509 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:43,132 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:43,734 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:44,368 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:44,968 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:46,147 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:47,749 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:48,993 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:34:50,404 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:34:52,426 **********DONE**********
+2020-10-14 14:37:16,678 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:37:16,680 **********DONE**********
+2020-10-14 14:45:24,511 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:45:24,513 **********DONE**********
+2020-10-14 14:53:28,456 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:53:28,459 **********DONE**********
+2020-10-14 14:53:33,201 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 14:53:33,815 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:34,172 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:34,235 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:34,350 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:39,551 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:53:40,765 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:53:40,792 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:41,516 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:53:41,567 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:53:42,109 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:42,941 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:42,946 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:45,368 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 14:53:46,742 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 14:53:47,535 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:05:10,955 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 15:05:10,958 **********DONE**********
+2020-10-14 15:05:28,309 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 15:05:28,312 **********DONE**********
+2020-10-14 15:05:36,591 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 15:05:36,594 **********DONE**********
+2020-10-14 15:08:20,989 Sterilizing...
+Path to datasets: /home/amitai/Pangea/DataSets/
+2020-10-14 15:08:21,181 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:23,647 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:24,946 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:27,545 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:28,873 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:31,434 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:32,706 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:35,404 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:36,644 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:39,147 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:40,377 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:42,794 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:44,026 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:46,489 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:47,739 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:50,075 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:51,335 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:53,735 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:54,969 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:08:57,424 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:08:58,738 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:01,214 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:02,454 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:05,275 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:06,546 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:08,915 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:10,159 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:12,499 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:13,725 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:15,829 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:17,073 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:19,155 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:20,379 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:22,627 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:23,855 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:26,528 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:27,845 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:30,621 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:31,874 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:34,107 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:35,353 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:37,836 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:39,065 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:41,478 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:42,714 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 15:09:44,572 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 15:09:46,386 **********DONE**********
+2020-10-14 16:12:55,131 Sterilizing...
+Path to datasets: ../DataSets/
+2020-10-14 16:12:55,137 **********DONE**********
+2020-10-14 16:13:22,275 Sterilizing...
+Path to datasets: ../DataSets/
+2020-10-14 16:13:22,475 Starting new HTTP connection (1): mygene.info:80
+2020-10-14 16:13:26,089 http://mygene.info:80 "POST /v3/query/ HTTP/1.1" 200 None
+2020-10-14 16:13:27,349 Starting new HTTP connection (1): mygene.info:80

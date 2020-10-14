@@ -1,0 +1,30 @@
+{ 
+	"response": {
+		"HEADER": "response",
+		"MAP": "STR_MAP",
+		"DATA": { 
+			"":"CR",
+			"":"PR",
+			"":"SD",
+			"":"PD",
+			"":"NR",
+			"0":"0",
+			"1":"1",
+			"":"NA" 
+		}
+	},
+	"sex": {
+		"HEADER": "Sex",
+		"MAP": "STR_MAP",
+		"DATA": {
+			"1":"M",
+			"2":"F",
+			"":"NA"
+		}
+	},
+	"age": {
+		"HEADER": "Age",
+		"MAP": "NUM"
+	}
+}
+	
