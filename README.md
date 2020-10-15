@@ -1,8 +1,4 @@
-<<<<<<< HEAD:README
-tutuDUT (Dataset Unification Tool)
-=======
 # DUT (Dataset Unification Tool)
->>>>>>> README:README.md
 
 ## Overview:
 
@@ -41,7 +37,7 @@ The md_config (metadata configuration) file in each dataset allows easy controll
 
 More keys can be added as needed, but every feild MUST contain a HEADER and MAP key. See given examples.
 
-# # Mapping Functions:
+## Mapping Functions:
 Mapping function are lambda-like function used to normalize data in datasets. Often these will be simple maps such as "Male" -> M or "Female" -> F but often these functions will need to be more complex to accuratley normalize data. DataReader allows for the creation of such functions with minimal coding.
 The mapping functions STR_MAP and NUM are given. NUM reads numeric input in several format and STR_MAP does simple string mapping as in "Male" -> M. The mapping to use is defined in DATA (see above and examples).
 To write a custom mapping function, one must write their own in the Mappings.py python file in DataReader. A Template exists to write functions in a lambda-style format. See Mappings.py for a detailed example.
