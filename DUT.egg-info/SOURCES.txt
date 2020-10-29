@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+DUT/DataExplorer.py
+DUT/DataReader.py
+DUT/GeneMap.py
+DUT/Mappings.py
+DUT/__init__.py
+DUT/config.json
+DUT.egg-info/PKG-INFO
+DUT.egg-info/SOURCES.txt
+DUT.egg-info/dependency_links.txt
+DUT.egg-info/top_level.txt
