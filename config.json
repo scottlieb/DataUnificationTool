@@ -1,0 +1,9 @@
+{
+	"WORKING_DIR": "/home/amitai/Pangea/DUT/",
+	"FIELDS": [
+		"age",
+		"sex",
+		"response",
+		"foo"
+	]
+}
