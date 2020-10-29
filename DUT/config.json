@@ -1,0 +1,9 @@
+{
+	"WORKING_DIR": "./",
+	"FIELDS": [
+		"age",
+		"sex",
+		"response",
+		"foo"
+	]
+}
