@@ -34,7 +34,7 @@ import DUT.DataExplorer as DE
 DR.sterilize_datasets() 
 
 #create DataExplorer object
-explorer = DR.DataExplorer(DATA_SET_DEFAULT_DIR)
+explorer = DE.DataExplorer()
 
 #get all datasets from default directory
 all_datasets = explorer.all_datasets
@@ -132,10 +132,11 @@ DR.sterilize_datasets(PATH_TO_DATASETS = PATH_TO_DATASETS, datasets = DATASETS, 
 - **force:** *Default: Flase.* If true, will sterilize all defined datasets, even if they have already been sterilized. This is useful after adjusting configurations.
 
 ## Unresolved Issues
-- [] Genes are currently only identifiable by entrez id. We would like to add functionality for identification by symbol.
-- [] DataReader.log should be more informative. For instance, it should log duplicate genes or unreadable files or datatypes.
-- [] A functionality to autogenrate md_config files for each dataset should be added.
-- [] MyGene currently dumps info to stdout. This should be avoided (quick fix).
+- Genes are currently only identifiable by entrez id. We would like to add functionality for identification by symbol.
+- DataReader.log should be more informative. For instance, it should log duplicate genes or unreadable files or datatypes.
+- A functionality to autogenrate md_config files for each dataset should be added.
+- MyGene currently dumps info to stdout. This should be avoided (quick fix).
+- **There is currently no streamline way to add new mapping funtions. This is being resolved**
 
 
 
