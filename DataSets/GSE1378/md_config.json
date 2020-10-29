@@ -26,5 +26,12 @@
 		"HEADER": "age",
 		"MAP": "NUM"
 	}
+	"survival": {
+		"HEADER": "surviaval time"
+		"MAP": "STR_MAP"
+		"DATA": {
+
+		}
+	}
 }
 	

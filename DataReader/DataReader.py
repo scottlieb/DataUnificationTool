@@ -26,9 +26,9 @@ import GeneMap
 
 from concurrent.futures import ThreadPoolExecutor
 
-config = json.load(open("config.json"))
+config = json.load(open("../config.json"))
 
-PATH_TO_DATASETS = config["PATH_TO_DATASETS"]
+PATH_TO_DATASETS = config["WORKING_DIR"] + "/DataSets/"
 FIELDS = config["FIELDS"]
 METADATA_CONFIG = "/md_config.json"
 metadata_name = "/patients.csv"

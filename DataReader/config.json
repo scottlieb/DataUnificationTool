@@ -1,8 +1,0 @@
-{
-	"PATH_TO_DATASETS": "../DataSets/",
-	"FIELDS": [
-		"age",
-		"sex",
-		"response"
-	]
-}

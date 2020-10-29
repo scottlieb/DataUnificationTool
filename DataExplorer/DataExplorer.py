@@ -8,7 +8,7 @@
        http://www.apache.org/licenses/LICENSE-2.0
 """
 
-import os
+import os, json
 from concurrent.futures import ThreadPoolExecutor
 
 import numpy as np
@@ -18,7 +18,10 @@ import mygene
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-DATA_SET_DEFAULT_DIR = "../DataSets/"
+
+config = json.load(open("../config.json"))
+
+DATA_SET_DEFAULT_DIR = config["WORKING_DIR"] + "/DataSets/"
 
 class PatientPool:
 	def __init__(self, root_dir, datasets):
@@ -35,7 +38,10 @@ class PatientPool:
 	def get_all_patients(self):
 
 		def get_patients_for_file(dataset):
-			df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0)
+			try:
+				df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0)
+			except:
+				return set()
 			return set(df.index)
 
 		patients = set()
@@ -51,7 +57,10 @@ class PatientPool:
 	def restrict_by_sex(self, sex='M'):
 
 		def restrict_for_file(dataset):
-			df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0, header=0)
+			try:
+				df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0, header=0)
+			except:
+				return set()
 			df = df[df['sex']==sex]
 			df = df[df['sex'].notnull()]
 			res = df.index
@@ -71,7 +80,10 @@ class PatientPool:
 	def restrict_by_age(self, min_age = 0, max_age = 120):
 		
 		def restrict_for_file(dataset):
-			df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0, header=0)
+			try:
+				df = pd.read_csv(self.root_dir + dataset + "/UD_metadata.csv", index_col=0, header=0)
+			except:
+				return set()
 			df = df[df['age']>=min_age]
 			df = df[df['age']<=max_age]
 			res = df.index
@@ -162,9 +174,6 @@ class DataExplorer:
 	def create_data_pool(self, datasets):
 		return DataPool(self.root_dir, datasets)
 
-	def get_mrna_data(self, DataPool):
-		pass
-
 	def get_metadata(self, DataPool):
 		
 		patient_set = DataPool.get_pateint_set()
@@ -173,7 +182,10 @@ class DataExplorer:
 
 		def __read_metadata_csv(filename):
 
-			df = pd.read_csv(filename,  header=0,  index_col=0)
+			try:
+				df = pd.read_csv(filename,  header=0,  index_col=0)
+			except:
+				df = pd.DataFrame()
 			return df[df.index.isin(patient_set)]
 
 		with ThreadPoolExecutor() as executor:
@@ -193,7 +205,10 @@ class DataExplorer:
 		 for dataset in DataPool.get_datasets()]
 
 		def __read_mrna_csv(filename):
-			df = pd.read_csv(filename,  header=0,  index_col=0)
+			try:
+				df = pd.read_csv(filename,  header=0,  index_col=0)
+			except:
+				df = pd.DataFrame()
 			if gene_set:
 				df = df[df.index.isin(gene_set)]
 				df = df.loc[:, df.columns.isin(patient_set)]
